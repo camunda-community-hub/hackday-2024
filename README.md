@@ -1,1 +1,1 @@
-# hackdays-2024
+# hackday-2024
